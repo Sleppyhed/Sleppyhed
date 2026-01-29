@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Sleppyhed/Sleppyhed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Juan Pablo Alvarez ortega. Im currently studying System engineering in Pontificia Javeriana collegue from Bogota Colombia.
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------------------------------------------------------------
+## My experience coding 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Java
+##C++
+##SQL
+
+------------------------------------------------------------------------------------------------------------------------------
+## A bit about me 👋
+🔭 I have one cat named akira (Like the anime movie)
+😄 I love music. specialy R&B music
+📫 Cowboy bebop is my favourite anime
+🌱 Im so into fashion and streetware
+🤔 I love cybersecurity and i hope in the near future have a magister on that.
