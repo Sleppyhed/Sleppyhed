@@ -20,7 +20,7 @@ SQL
 
 -📫 Cowboy bebop is my favourite anime
 
--🌱 Im so into fashion and streetware
+-🌱 Im into fashion and streetware
 
--🤔 I love cybersecurity and i hope in the near future have a magister on that.
+-🤔 I love cybersecurity and i hope to study that.
 
